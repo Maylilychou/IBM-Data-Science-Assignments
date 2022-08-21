@@ -1,2 +1,2 @@
 # IBM-Data-Science-Assignments
-Final assignments of classes in IBM Data science certificate from Coursera. 
+This repository contains several final assignments of classes in IBM Data science certificate track from Coursera. 
